@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dte:GTDocumento xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0">
+  <dte:SAT ClaseDocumento="dte">
+    <dte:DTE ID="DatosCertificados">
+      <dte:DatosEmision ID="DatosEmision">
+        <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2023-07-27T21:36:00" Tipo="FACT"/>
+        <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" CorreoEmisor="" NITEmisor="339091" NombreComercial="ASOCIACION MAYAN GOLF CLUB" NombreEmisor="ASOCIACION MAYAN GOLF CLUB">
+          <dte:DireccionEmisor>
+            <dte:Direccion>SAN MIGUEL PETAPA , GUATEMALA 22 AVENIDA13-41 ZONA 10, FINCA EL ZARZAL</dte:Direccion>
+            <dte:CodigoPostal>01001</dte:CodigoPostal>
+            <dte:Municipio>GUATEMALA</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionEmisor>
+        </dte:Emisor>
+        <dte:Receptor IDReceptor="85669032" NombreReceptor="Juan Fernando Quezada Andreu" CorreoReceptor="jfquezada90@gmail.com">
+          <dte:DireccionReceptor>
+            <dte:Direccion>5 Avenida, 8-84 Zona 14, Edifico Catania. Apartamento 1103</dte:Direccion>
+            <dte:CodigoPostal>01009</dte:CodigoPostal>
+            <dte:Municipio>Guatemala</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionReceptor>
+        </dte:Receptor>
+        <dte:Frases>
+          <dte:Frase CodigoEscenario="1" TipoFrase="1"/>
+        </dte:Frases>
+        <dte:Items>
+          <dte:Item BienOServicio="B" NumeroLinea="1">
+            <dte:Cantidad>3.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[AEX08] EXTRA HUEVO DURO</dte:Descripcion>
+            <dte:PrecioUnitario>7.000000</dte:PrecioUnitario>
+            <dte:Precio>21.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>18.750000</dte:MontoGravable>
+                <dte:MontoImpuesto>2.250000</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>21.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="2">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[3110406] GATORADE NARANJA 24/600 ML</dte:Descripcion>
+            <dte:PrecioUnitario>15.000000</dte:PrecioUnitario>
+            <dte:Precio>15.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>13.392857</dte:MontoGravable>
+                <dte:MontoImpuesto>1.607143</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>15.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="3">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[3080112] GALLO BOTELLA (12 OZ)</dte:Descripcion>
+            <dte:PrecioUnitario>17.000000</dte:PrecioUnitario>
+            <dte:Precio>17.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>15.178571</dte:MontoGravable>
+                <dte:MontoImpuesto>1.821429</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>17.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="4">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[AES17] CONSOMÉ DE POLLO</dte:Descripcion>
+            <dte:PrecioUnitario>35.000000</dte:PrecioUnitario>
+            <dte:Precio>35.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>31.250000</dte:MontoGravable>
+                <dte:MontoImpuesto>3.750000</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>35.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="5">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[ASR03] SANDWICH DE JAMÓN Y QUESO AMARILLO</dte:Descripcion>
+            <dte:PrecioUnitario>28.000000</dte:PrecioUnitario>
+            <dte:Precio>28.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>25.000000</dte:MontoGravable>
+                <dte:MontoImpuesto>3.000000</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>28.000000</dte:Total>
+          </dte:Item>
+        </dte:Items>
+        <dte:Totales>
+          <dte:TotalImpuestos>
+            <dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="12.428572"/>
+          </dte:TotalImpuestos>
+          <dte:GranTotal>116.000000</dte:GranTotal>
+        </dte:Totales>
+      </dte:DatosEmision>
+    </dte:DTE>
+    <dte:Adenda>
+      <dte:NumeroInterno>FCPRE/2023/02577</dte:NumeroInterno>
+      <encabezadoExtra>
+        <definicionEE>
+          <codigoEtiquetaEE>59</codigoEtiquetaEE>
+          <valorEtiquetaEE>132162</valorEtiquetaEE>
+        </definicionEE>
+        <definicionEE>
+          <codigoEtiquetaEE>12</codigoEtiquetaEE>
+          <valorEtiquetaEE>1832</valorEtiquetaEE>
+        </definicionEE>
+      </encabezadoExtra>
+    </dte:Adenda>
+  </dte:SAT>
+</dte:GTDocumento>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dte:GTDocumento xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0">
+  <dte:SAT ClaseDocumento="dte">
+    <dte:DTE ID="DatosCertificados">
+      <dte:DatosEmision ID="DatosEmision">
+        <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2023-07-08T21:36:00" Tipo="FACT"/>
+        <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" CorreoEmisor="" NITEmisor="339091" NombreComercial="ASOCIACION MAYAN GOLF CLUB" NombreEmisor="ASOCIACION MAYAN GOLF CLUB">
+          <dte:DireccionEmisor>
+            <dte:Direccion>Ciudad</dte:Direccion>
+            <dte:CodigoPostal>01001</dte:CodigoPostal>
+            <dte:Municipio>Guatemala</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionEmisor>
+        </dte:Emisor>
+        <dte:Receptor IDReceptor="339091" NombreReceptor="ASOCIACION MAYAN GOLF CLUB" CorreoReceptor="info@mayangolfclub.com">
+          <dte:DireccionReceptor>
+            <dte:Direccion>22 Avenida 13-41 Zona 10, Finca El Zarzal</dte:Direccion>
+            <dte:CodigoPostal>01009</dte:CodigoPostal>
+            <dte:Municipio>San Miguel Petapa</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionReceptor>
+        </dte:Receptor>
+        <dte:Frases>
+          <dte:Frase CodigoEscenario="1" TipoFrase="1"/>
+        </dte:Frases>
+        <dte:Items>
+          <dte:Item BienOServicio="B" NumeroLinea="1">
+            <dte:Cantidad>54.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>Hamburguesa Mayan Universitario</dte:Descripcion>
+            <dte:PrecioUnitario>25.000000</dte:PrecioUnitario>
+            <dte:Precio>1350.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>1205.357143</dte:MontoGravable>
+                <dte:MontoImpuesto>144.642857</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>1350.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="2">
+            <dte:Cantidad>54.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>Refaccion junivel Universitario</dte:Descripcion>
+            <dte:PrecioUnitario>14.000000</dte:PrecioUnitario>
+            <dte:Precio>756.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>675.000000</dte:MontoGravable>
+                <dte:MontoImpuesto>81.000000</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>756.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="3">
+            <dte:Cantidad>162.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>Agua pura torneo Universitario</dte:Descripcion>
+            <dte:PrecioUnitario>3.000000</dte:PrecioUnitario>
+            <dte:Precio>486.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>433.928571</dte:MontoGravable>
+                <dte:MontoImpuesto>52.071429</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>486.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="4">
+            <dte:Cantidad>54.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>Bebidas lata torneo Universitario</dte:Descripcion>
+            <dte:PrecioUnitario>5.000000</dte:PrecioUnitario>
+            <dte:Precio>270.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>241.071429</dte:MontoGravable>
+                <dte:MontoImpuesto>28.928571</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>270.000000</dte:Total>
+          </dte:Item>
+        </dte:Items>
+        <dte:Totales>
+          <dte:TotalImpuestos>
+            <dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="306.642857"/>
+          </dte:TotalImpuestos>
+          <dte:GranTotal>2862.000000</dte:GranTotal>
+        </dte:Totales>
+      </dte:DatosEmision>
+    </dte:DTE>
+    <dte:Adenda>
+      <dte:NumeroInterno>FCPRE/2023/01776</dte:NumeroInterno>
+      <encabezadoExtra>
+        <definicionEE>
+          <codigoEtiquetaEE>59</codigoEtiquetaEE>
+          <valorEtiquetaEE>90423</valorEtiquetaEE>
+        </definicionEE>
+      </encabezadoExtra>
+    </dte:Adenda>
+  </dte:SAT>
+</dte:GTDocumento>

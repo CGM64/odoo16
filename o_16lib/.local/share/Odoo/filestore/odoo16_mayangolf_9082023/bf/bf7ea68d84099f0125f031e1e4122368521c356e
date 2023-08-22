@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dte:GTDocumento xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0">
+  <dte:SAT ClaseDocumento="dte">
+    <dte:DTE ID="DatosCertificados">
+      <dte:DatosEmision ID="DatosEmision">
+        <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2023-06-30T21:36:00" Tipo="RECI"/>
+        <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" CorreoEmisor="" NITEmisor="339091" NombreComercial="ASOCIACION MAYAN GOLF CLUB" NombreEmisor="ASOCIACION MAYAN GOLF CLUB">
+          <dte:DireccionEmisor>
+            <dte:Direccion>Ciudad</dte:Direccion>
+            <dte:CodigoPostal>01001</dte:CodigoPostal>
+            <dte:Municipio>Guatemala</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionEmisor>
+        </dte:Emisor>
+        <dte:Receptor IDReceptor="1652303" NombreReceptor="Miriam Leticia Mollinero Morales De Bourda" CorreoReceptor="miriambourda@icloud.com">
+          <dte:DireccionReceptor>
+            <dte:Direccion>10 Avenida, "A" 12-51 Zona 14 Las Conchas</dte:Direccion>
+            <dte:CodigoPostal>01009</dte:CodigoPostal>
+            <dte:Municipio>Guatemala</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionReceptor>
+        </dte:Receptor>
+        <dte:Frases>
+          <dte:Frase CodigoEscenario="6" TipoFrase="4"/>
+        </dte:Frases>
+        <dte:Items>
+          <dte:Item BienOServicio="S" NumeroLinea="1">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>Acción Activa</dte:Descripcion>
+            <dte:PrecioUnitario>2600.000000</dte:PrecioUnitario>
+            <dte:Precio>2600.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Total>2600.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="S" NumeroLinea="2">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Día</dte:UnidadMedida>
+            <dte:Descripcion>Consumo Mínimo</dte:Descripcion>
+            <dte:PrecioUnitario>13.500000</dte:PrecioUnitario>
+            <dte:Precio>13.500000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Total>13.500000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="S" NumeroLinea="3">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>Cuota de Locker</dte:Descripcion>
+            <dte:PrecioUnitario>50.000000</dte:PrecioUnitario>
+            <dte:Precio>50.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Total>50.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="S" NumeroLinea="4">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>Cuota resguardo de palos </dte:Descripcion>
+            <dte:PrecioUnitario>40.000000</dte:PrecioUnitario>
+            <dte:Precio>40.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Total>40.000000</dte:Total>
+          </dte:Item>
+        </dte:Items>
+        <dte:Totales>
+          <dte:GranTotal>2703.500000</dte:GranTotal>
+        </dte:Totales>
+      </dte:DatosEmision>
+    </dte:DTE>
+    <dte:Adenda>
+      <dte:NumeroInterno>RRSF/2023/00103</dte:NumeroInterno>
+      <encabezadoExtra>
+        <definicionEE>
+          <codigoEtiquetaEE>59</codigoEtiquetaEE>
+          <valorEtiquetaEE>82353</valorEtiquetaEE>
+        </definicionEE>
+      </encabezadoExtra>
+    </dte:Adenda>
+  </dte:SAT>
+</dte:GTDocumento>

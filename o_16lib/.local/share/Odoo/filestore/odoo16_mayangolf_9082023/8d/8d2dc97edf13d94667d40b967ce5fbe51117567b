@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dte:GTDocumento xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0">
+  <dte:SAT ClaseDocumento="dte">
+    <dte:DTE ID="DatosCertificados">
+      <dte:DatosEmision ID="DatosEmision">
+        <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2023-07-19T21:36:00" Tipo="FACT"/>
+        <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" CorreoEmisor="" NITEmisor="339091" NombreComercial="ASOCIACION MAYAN GOLF CLUB" NombreEmisor="ASOCIACION MAYAN GOLF CLUB">
+          <dte:DireccionEmisor>
+            <dte:Direccion>SAN MIGUEL PETAPA , GUATEMALA 22 AVENIDA13-41 ZONA 10, FINCA EL ZARZAL</dte:Direccion>
+            <dte:CodigoPostal>01001</dte:CodigoPostal>
+            <dte:Municipio>GUATEMALA</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionEmisor>
+        </dte:Emisor>
+        <dte:Receptor IDReceptor="9871004" NombreReceptor="Jorge Eduardo Chang Aquino" CorreoReceptor="jorge_chang@yahoo.com">
+          <dte:DireccionReceptor>
+            <dte:Direccion>Km 17.5 Carret. A Amatitlán</dte:Direccion>
+            <dte:CodigoPostal>01009</dte:CodigoPostal>
+            <dte:Municipio>Villa Nueva</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionReceptor>
+        </dte:Receptor>
+        <dte:Frases>
+          <dte:Frase CodigoEscenario="1" TipoFrase="1"/>
+        </dte:Frases>
+        <dte:Items>
+          <dte:Item BienOServicio="B" NumeroLinea="1">
+            <dte:Cantidad>3.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[APA23] 1/4 POLLO TRADICIONAL (PIERNA CON CUADRIL)</dte:Descripcion>
+            <dte:PrecioUnitario>45.000000</dte:PrecioUnitario>
+            <dte:Precio>135.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>120.535714</dte:MontoGravable>
+                <dte:MontoImpuesto>14.464286</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>135.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="2">
+            <dte:Cantidad>2.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[APA13] LOMITO TRADICIONAL 8 ONZ</dte:Descripcion>
+            <dte:PrecioUnitario>105.000000</dte:PrecioUnitario>
+            <dte:Precio>210.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>187.500000</dte:MontoGravable>
+                <dte:MontoImpuesto>22.500000</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>210.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="3">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[APA02] RÓBALO AL AJILLO</dte:Descripcion>
+            <dte:PrecioUnitario>95.000000</dte:PrecioUnitario>
+            <dte:Precio>95.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>84.821429</dte:MontoGravable>
+                <dte:MontoImpuesto>10.178571</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>95.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="4">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[3110210] GRAPETTE LATA (LATA 12OZ)</dte:Descripcion>
+            <dte:PrecioUnitario>10.000000</dte:PrecioUnitario>
+            <dte:Precio>10.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>8.928571</dte:MontoGravable>
+                <dte:MontoImpuesto>1.071429</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>10.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="5">
+            <dte:Cantidad>3.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[3110201] AGUA MINERAL SALUTARIS (LATA 12OZ)</dte:Descripcion>
+            <dte:PrecioUnitario>10.000000</dte:PrecioUnitario>
+            <dte:Precio>30.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>26.785714</dte:MontoGravable>
+                <dte:MontoImpuesto>3.214286</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>30.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="6">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[BPF11] VASO DE JAMAICA CON AGUA</dte:Descripcion>
+            <dte:PrecioUnitario>13.000000</dte:PrecioUnitario>
+            <dte:Precio>13.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>11.607143</dte:MontoGravable>
+                <dte:MontoImpuesto>1.392857</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>13.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="7">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[BPF03] VASO DE NARANJADA CON AGUA</dte:Descripcion>
+            <dte:PrecioUnitario>13.000000</dte:PrecioUnitario>
+            <dte:Precio>13.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>11.607143</dte:MontoGravable>
+                <dte:MontoImpuesto>1.392857</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>13.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="8">
+            <dte:Cantidad>3.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[BCA13] CAFÉ AMERICANO</dte:Descripcion>
+            <dte:PrecioUnitario>10.000000</dte:PrecioUnitario>
+            <dte:Precio>30.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>26.785714</dte:MontoGravable>
+                <dte:MontoImpuesto>3.214286</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>30.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="9">
+            <dte:Cantidad>2.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[BCA01] CAPUCCHINO</dte:Descripcion>
+            <dte:PrecioUnitario>15.000000</dte:PrecioUnitario>
+            <dte:Precio>30.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>26.785714</dte:MontoGravable>
+                <dte:MontoImpuesto>3.214286</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>30.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="10">
+            <dte:Cantidad>3.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[APO04] PORCIÓN PIE DE HIGO (SM)</dte:Descripcion>
+            <dte:PrecioUnitario>20.000000</dte:PrecioUnitario>
+            <dte:Precio>60.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>53.571429</dte:MontoGravable>
+                <dte:MontoImpuesto>6.428571</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>60.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="11">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[APO01] PORCIÓN PASTEL DE CHOCOLATE (SM)</dte:Descripcion>
+            <dte:PrecioUnitario>30.000000</dte:PrecioUnitario>
+            <dte:Precio>30.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>26.785714</dte:MontoGravable>
+                <dte:MontoImpuesto>3.214286</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>30.000000</dte:Total>
+          </dte:Item>
+        </dte:Items>
+        <dte:Totales>
+          <dte:TotalImpuestos>
+            <dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="70.285715"/>
+          </dte:TotalImpuestos>
+          <dte:GranTotal>656.000000</dte:GranTotal>
+        </dte:Totales>
+      </dte:DatosEmision>
+    </dte:DTE>
+    <dte:Adenda>
+      <dte:NumeroInterno>FCPRE/2023/02229</dte:NumeroInterno>
+      <encabezadoExtra>
+        <definicionEE>
+          <codigoEtiquetaEE>59</codigoEtiquetaEE>
+          <valorEtiquetaEE>116517</valorEtiquetaEE>
+        </definicionEE>
+        <definicionEE>
+          <codigoEtiquetaEE>12</codigoEtiquetaEE>
+          <valorEtiquetaEE>1739</valorEtiquetaEE>
+        </definicionEE>
+      </encabezadoExtra>
+    </dte:Adenda>
+  </dte:SAT>
+</dte:GTDocumento>

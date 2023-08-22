@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dte:GTDocumento xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0">
+  <dte:SAT ClaseDocumento="dte">
+    <dte:DTE ID="DatosCertificados">
+      <dte:DatosEmision ID="DatosEmision">
+        <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2023-07-14T21:36:00" Tipo="FACT"/>
+        <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" CorreoEmisor="" NITEmisor="339091" NombreComercial="ASOCIACION MAYAN GOLF CLUB" NombreEmisor="ASOCIACION MAYAN GOLF CLUB">
+          <dte:DireccionEmisor>
+            <dte:Direccion>Ciudad</dte:Direccion>
+            <dte:CodigoPostal>01001</dte:CodigoPostal>
+            <dte:Municipio>Guatemala</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionEmisor>
+        </dte:Emisor>
+        <dte:Receptor IDReceptor="49945084" NombreReceptor="Luisa Fernanda Cruz Solano De Celis" CorreoReceptor="lfer86@gmail.com">
+          <dte:DireccionReceptor>
+            <dte:Direccion>Diagonal 6, 17-87, Zona 10</dte:Direccion>
+            <dte:CodigoPostal>01009</dte:CodigoPostal>
+            <dte:Municipio>Guatemala</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionReceptor>
+        </dte:Receptor>
+        <dte:Frases>
+          <dte:Frase CodigoEscenario="1" TipoFrase="1"/>
+        </dte:Frases>
+        <dte:Items>
+          <dte:Item BienOServicio="B" NumeroLinea="1">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>L 1</dte:UnidadMedida>
+            <dte:Descripcion>[3090712] WHISKY OLD PARR (0.5 LITRO)</dte:Descripcion>
+            <dte:PrecioUnitario>330.000000</dte:PrecioUnitario>
+            <dte:Precio>330.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>294.642857</dte:MontoGravable>
+                <dte:MontoImpuesto>35.357143</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>330.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="2">
+            <dte:Cantidad>7.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion>[3110209] COCA COLA ZERO (LATA)</dte:Descripcion>
+            <dte:PrecioUnitario>10.000000</dte:PrecioUnitario>
+            <dte:Precio>70.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>62.500000</dte:MontoGravable>
+                <dte:MontoImpuesto>7.500000</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>70.000000</dte:Total>
+          </dte:Item>
+        </dte:Items>
+        <dte:Totales>
+          <dte:TotalImpuestos>
+            <dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="42.857143"/>
+          </dte:TotalImpuestos>
+          <dte:GranTotal>400.000000</dte:GranTotal>
+        </dte:Totales>
+      </dte:DatosEmision>
+    </dte:DTE>
+    <dte:Adenda>
+      <dte:NumeroInterno>FCPRE/2023/02027</dte:NumeroInterno>
+      <encabezadoExtra>
+        <definicionEE>
+          <codigoEtiquetaEE>59</codigoEtiquetaEE>
+          <valorEtiquetaEE>101042</valorEtiquetaEE>
+        </definicionEE>
+      </encabezadoExtra>
+    </dte:Adenda>
+  </dte:SAT>
+</dte:GTDocumento>

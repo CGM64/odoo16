@@ -1,0 +1,16 @@
+2023-08-22 17:41:36.280 [info] Extension host with pid 443 started
+2023-08-22 17:41:36.493 [error] Error: EEXIST: file already exists, open '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/6d985aeb7d724effa94fbc6431622498/vscode.lock'
+2023-08-22 17:41:36.660 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/6d985aeb7d724effa94fbc6431622498/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-08-22 17:41:36.717 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-22 17:41:37.217 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/6d985aeb7d724effa94fbc6431622498/vscode.lock': The pid 408 appears to be gone.
+2023-08-22 17:41:37.226 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/6d985aeb7d724effa94fbc6431622498/vscode.lock': Deleting a stale lock.
+2023-08-22 17:41:37.467 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/6d985aeb7d724effa94fbc6431622498/vscode.lock': Lock acquired.
+2023-08-22 17:41:37.523 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-22 17:41:37.529 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-22 17:41:39.482 [info] Eager extensions activated
+2023-08-22 17:41:39.487 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-22 17:41:39.489 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-22 17:46:15.068 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-22 17:51:15.061 [info] Extension host terminating: received terminate message from renderer
+2023-08-22 17:51:15.064 [info] Lock '/var/lib/odoo/.vscode-server/data/User/workspaceStorage/6d985aeb7d724effa94fbc6431622498/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-08-22 17:51:15.150 [info] Extension host with pid 443 exiting with code 0

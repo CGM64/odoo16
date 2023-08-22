@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dte:GTDocumento xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0">
+  <dte:SAT ClaseDocumento="dte">
+    <dte:DTE ID="DatosCertificados">
+      <dte:DatosEmision ID="DatosEmision">
+        <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2023-08-01T21:36:00" Tipo="FACT"/>
+        <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" CorreoEmisor="" NITEmisor="339091" NombreComercial="ASOCIACION MAYAN GOLF CLUB" NombreEmisor="ASOCIACION MAYAN GOLF CLUB">
+          <dte:DireccionEmisor>
+            <dte:Direccion>22 AVENIDA  13-41  ZONA 10 , SAN MIGUEL PETAPA</dte:Direccion>
+            <dte:CodigoPostal>01001</dte:CodigoPostal>
+            <dte:Municipio>GUATEMALA</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionEmisor>
+        </dte:Emisor>
+        <dte:Receptor IDReceptor="60067756" NombreReceptor="Juan Eduardo Cabrera Ayuso" CorreoReceptor="ecabrerayuso@gmail.com">
+          <dte:DireccionReceptor>
+            <dte:Direccion>25 Avenida, 1-65 Zona 15, Vista Hermosa 2, Edificio Albero 15, Apartamento 86</dte:Direccion>
+            <dte:CodigoPostal>01009</dte:CodigoPostal>
+            <dte:Municipio>Guatemala</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionReceptor>
+        </dte:Receptor>
+        <dte:Frases>
+          <dte:Frase CodigoEscenario="1" TipoFrase="1"/>
+        </dte:Frases>
+        <dte:Items>
+          <dte:Item BienOServicio="B" NumeroLinea="1">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> SANDWICH DE POLLO</dte:Descripcion>
+            <dte:PrecioUnitario>28.000000</dte:PrecioUnitario>
+            <dte:Precio>28.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>25.000000</dte:MontoGravable>
+                <dte:MontoImpuesto>3.000000</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>28.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="2">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> EXTRA QUESO MOZARELLA</dte:Descripcion>
+            <dte:PrecioUnitario>15.000000</dte:PrecioUnitario>
+            <dte:Precio>15.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>13.392857</dte:MontoGravable>
+                <dte:MontoImpuesto>1.607143</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>15.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="3">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> AGUA PURA BOTELLA</dte:Descripcion>
+            <dte:PrecioUnitario>8.000000</dte:PrecioUnitario>
+            <dte:Precio>8.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>7.142857</dte:MontoGravable>
+                <dte:MontoImpuesto>0.857143</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>8.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="4">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> COCA COLA DESECHABLE (20OZ)</dte:Descripcion>
+            <dte:PrecioUnitario>14.000000</dte:PrecioUnitario>
+            <dte:Precio>14.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>12.500000</dte:MontoGravable>
+                <dte:MontoImpuesto>1.500000</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>14.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="5">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> GATORADE ZERO SUGAR LEMON-LIME</dte:Descripcion>
+            <dte:PrecioUnitario>15.000000</dte:PrecioUnitario>
+            <dte:Precio>15.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>13.392857</dte:MontoGravable>
+                <dte:MontoImpuesto>1.607143</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>15.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="6">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> MILANESA DE POLLO</dte:Descripcion>
+            <dte:PrecioUnitario>65.000000</dte:PrecioUnitario>
+            <dte:Precio>65.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>58.035714</dte:MontoGravable>
+                <dte:MontoImpuesto>6.964286</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>65.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="7">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> VASO DE LIMONADA CON AGUA</dte:Descripcion>
+            <dte:PrecioUnitario>13.000000</dte:PrecioUnitario>
+            <dte:Precio>13.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>11.607143</dte:MontoGravable>
+                <dte:MontoImpuesto>1.392857</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>13.000000</dte:Total>
+          </dte:Item>
+        </dte:Items>
+        <dte:Totales>
+          <dte:TotalImpuestos>
+            <dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="16.928572"/>
+          </dte:TotalImpuestos>
+          <dte:GranTotal>158.000000</dte:GranTotal>
+        </dte:Totales>
+      </dte:DatosEmision>
+    </dte:DTE>
+    <dte:Adenda>
+      <dte:NumeroInterno>FCPRE/2023/02813</dte:NumeroInterno>
+      <encabezadoExtra>
+        <definicionEE>
+          <codigoEtiquetaEE>59</codigoEtiquetaEE>
+          <valorEtiquetaEE>141529</valorEtiquetaEE>
+        </definicionEE>
+        <definicionEE>
+          <codigoEtiquetaEE>12</codigoEtiquetaEE>
+          <valorEtiquetaEE>1859</valorEtiquetaEE>
+        </definicionEE>
+      </encabezadoExtra>
+      <detalleExtra>
+        <definicionDE>
+          <numeroItemDE>1</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>ASR17</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>2</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>AEX54</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>3</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>3110501</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>4</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>3110206</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>5</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>3110421</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>6</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>APA28</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>7</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>BPF05</valorEtiquetaDE>
+        </definicionDE>
+      </detalleExtra>
+    </dte:Adenda>
+  </dte:SAT>
+</dte:GTDocumento>

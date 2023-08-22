@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dte:GTDocumento xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:dte="http://www.sat.gob.gt/dte/fel/0.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.1" xsi:schemaLocation="http://www.sat.gob.gt/dte/fel/0.2.0">
+  <dte:SAT ClaseDocumento="dte">
+    <dte:DTE ID="DatosCertificados">
+      <dte:DatosEmision ID="DatosEmision">
+        <dte:DatosGenerales CodigoMoneda="GTQ" FechaHoraEmision="2023-08-02T21:36:00" Tipo="FACT"/>
+        <dte:Emisor AfiliacionIVA="GEN" CodigoEstablecimiento="1" CorreoEmisor="" NITEmisor="339091" NombreComercial="ASOCIACION MAYAN GOLF CLUB" NombreEmisor="ASOCIACION MAYAN GOLF CLUB">
+          <dte:DireccionEmisor>
+            <dte:Direccion>22 AVENIDA  13-41  ZONA 10 , SAN MIGUEL PETAPA</dte:Direccion>
+            <dte:CodigoPostal>01001</dte:CodigoPostal>
+            <dte:Municipio>GUATEMALA</dte:Municipio>
+            <dte:Departamento>Guatemala</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionEmisor>
+        </dte:Emisor>
+        <dte:Receptor IDReceptor="CF" NombreReceptor="Soo Joong Kang" CorreoReceptor="lorena8303@yahoo.es">
+          <dte:DireccionReceptor>
+            <dte:Direccion>Km 37.3 Carr A San Vicente Pacaya Interior Parque Industrial Michatoya, Palin</dte:Direccion>
+            <dte:CodigoPostal>01009</dte:CodigoPostal>
+            <dte:Municipio>Palín</dte:Municipio>
+            <dte:Departamento>Escuintla</dte:Departamento>
+            <dte:Pais>GT</dte:Pais>
+          </dte:DireccionReceptor>
+        </dte:Receptor>
+        <dte:Frases>
+          <dte:Frase CodigoEscenario="1" TipoFrase="1"/>
+        </dte:Frases>
+        <dte:Items>
+          <dte:Item BienOServicio="B" NumeroLinea="1">
+            <dte:Cantidad>2.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> 1/4 POLLO TRADICIONAL</dte:Descripcion>
+            <dte:PrecioUnitario>45.000000</dte:PrecioUnitario>
+            <dte:Precio>90.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>80.357143</dte:MontoGravable>
+                <dte:MontoImpuesto>9.642857</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>90.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="2">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> PICHEL DE LICUADO DE PAPAYA CON AGUA</dte:Descripcion>
+            <dte:PrecioUnitario>45.000000</dte:PrecioUnitario>
+            <dte:Precio>45.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>40.178571</dte:MontoGravable>
+                <dte:MontoImpuesto>4.821429</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>45.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="3">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> ESPAGUETTI CON CAMARÓN JUMBO</dte:Descripcion>
+            <dte:PrecioUnitario>130.000000</dte:PrecioUnitario>
+            <dte:Precio>130.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>116.071429</dte:MontoGravable>
+                <dte:MontoImpuesto>13.928571</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>130.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="4">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> ESPAGUETTI A LA BOLOÑESA</dte:Descripcion>
+            <dte:PrecioUnitario>50.000000</dte:PrecioUnitario>
+            <dte:Precio>50.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>44.642857</dte:MontoGravable>
+                <dte:MontoImpuesto>5.357143</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>50.000000</dte:Total>
+          </dte:Item>
+          <dte:Item BienOServicio="B" NumeroLinea="5">
+            <dte:Cantidad>1.0</dte:Cantidad>
+            <dte:UnidadMedida>Uni</dte:UnidadMedida>
+            <dte:Descripcion> MONTE CARLO C/C (12 OZ)</dte:Descripcion>
+            <dte:PrecioUnitario>20.000000</dte:PrecioUnitario>
+            <dte:Precio>20.000000</dte:Precio>
+            <dte:Descuento>0.000000</dte:Descuento>
+            <dte:Impuestos>
+              <dte:Impuesto>
+                <dte:NombreCorto>IVA</dte:NombreCorto>
+                <dte:CodigoUnidadGravable>1</dte:CodigoUnidadGravable>
+                <dte:MontoGravable>17.857143</dte:MontoGravable>
+                <dte:MontoImpuesto>2.142857</dte:MontoImpuesto>
+              </dte:Impuesto>
+            </dte:Impuestos>
+            <dte:Total>20.000000</dte:Total>
+          </dte:Item>
+        </dte:Items>
+        <dte:Totales>
+          <dte:TotalImpuestos>
+            <dte:TotalImpuesto NombreCorto="IVA" TotalMontoImpuesto="35.892857"/>
+          </dte:TotalImpuestos>
+          <dte:GranTotal>335.000000</dte:GranTotal>
+        </dte:Totales>
+      </dte:DatosEmision>
+    </dte:DTE>
+    <dte:Adenda>
+      <dte:NumeroInterno>FCPRE/2023/02836</dte:NumeroInterno>
+      <encabezadoExtra>
+        <definicionEE>
+          <codigoEtiquetaEE>59</codigoEtiquetaEE>
+          <valorEtiquetaEE>142026</valorEtiquetaEE>
+        </definicionEE>
+        <definicionEE>
+          <codigoEtiquetaEE>12</codigoEtiquetaEE>
+          <valorEtiquetaEE>461</valorEtiquetaEE>
+        </definicionEE>
+      </encabezadoExtra>
+      <detalleExtra>
+        <definicionDE>
+          <numeroItemDE>1</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>APA22</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>2</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>BLI07</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>3</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>APA06</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>4</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>AIT01</valorEtiquetaDE>
+        </definicionDE>
+        <definicionDE>
+          <numeroItemDE>5</numeroItemDE>
+          <codigoEtiquetaDE>1</codigoEtiquetaDE>
+          <valorEtiquetaDE>3080115</valorEtiquetaDE>
+        </definicionDE>
+      </detalleExtra>
+    </dte:Adenda>
+  </dte:SAT>
+</dte:GTDocumento>

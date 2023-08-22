@@ -1,0 +1,107 @@
+2023-08-21 13:58:25.397 [info] 
+
+
+
+
+2023-08-21 13:58:25.505 [info] Extension host agent started.
+2023-08-21 13:58:26.442 [info] [127.0.0.1][40190d86][ManagementConnection] New connection established.
+2023-08-21 13:58:26.482 [debug] No uninstalled extensions found.
+2023-08-21 13:58:26.536 [info] Log level changed to info
+2023-08-21 13:58:26.866 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 1, signal null)
+2023-08-21 13:58:28.444 [info] [127.0.0.1][6bd576a1][ExtensionHostConnection] New connection established.
+2023-08-21 13:58:30.134 [info] [127.0.0.1][6bd576a1][ExtensionHostConnection] <580> Launched Extension Host Process.
+2023-08-21 14:02:49.900 [info] [127.0.0.1][40190d86][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-21 14:02:49.914 [info] [127.0.0.1][6bd576a1][ExtensionHostConnection] <580> Extension Host Process exited with code: 0, signal: null.
+2023-08-21 14:02:49.929 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:159:6046)
+    at process.emit (node:events:513:28)
+2023-08-21 14:02:49.932 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 14:02:49.933 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 14:02:49.935 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 14:02:49.938 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 14:02:49.940 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 14:02:49.941 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 15:05:43.156 [info] [127.0.0.1][295b065f][ManagementConnection] New connection established.
+2023-08-21 15:05:43.638 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment: Unexpected exit code from spawned shell (code 1, signal null)
+2023-08-21 15:05:45.590 [info] [127.0.0.1][5e2ee30c][ExtensionHostConnection] New connection established.
+2023-08-21 15:05:46.375 [info] [127.0.0.1][5e2ee30c][ExtensionHostConnection] <3787> Launched Extension Host Process.
+2023-08-21 15:24:10.067 [info] [127.0.0.1][295b065f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-08-21 15:24:10.129 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 15:24:10.197 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 15:24:10.213 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 15:24:10.250 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 15:24:10.255 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 15:24:10.265 [error] Error: Throttler is disposed
+    at r.queue (/var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /var/lib/odoo/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-08-21 15:24:10.320 [info] [127.0.0.1][5e2ee30c][ExtensionHostConnection] <3787> Extension Host Process exited with code: 0, signal: null.
